@@ -27,11 +27,11 @@ if archivos:
 
         # LISTA DE TÉRMINOS RECURRENTES EN COMENTARIOS OFENSIVOS
         terminos_recurrentes = [
-            "cerru", "feo", "bello", "guapo", "guapa", "bonita", "verde", "arbol", "fallout",
-            "wall-e", "marte", "marrón", "indígena", "negro", "polvoru",
-            "gatito", "cerruano", "portal esperanza", "perú debo ser un", "peru seria un",
-            "perukistan", "perusalen", "mierdu", "piedru", "pueblo marrón",
-            "ilegal plantar", "parte de europa", "robó toda la belleza", "comepaloma"
+           "feo", "cerru", "bello", "guapo", "bonito", "verde", "arbol", “belleza”, “lindo”
+            "marte", "marrón", "indígena", "negro", "polvoru",
+            "cerruano", "portal esperanza", "en perú debo ser un", "en peru seria un",
+            "perukistan", "perusalen", "piedru", "pueblo marrón", "ilegal", "parte de europa", 
+            "comepaloma", “ay mi gatito miau miau”, “insulto”, “meme”, “india”
         ]
 
         def es_ofensivo(texto):
